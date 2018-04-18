@@ -1,0 +1,17 @@
+<style>
+
+.title {
+    color: navy;
+    border-style: groove;
+    border: 25px solid green
+}
+
+.h {
+    color: rgb(176, 148, 184);
+}
+
+
+body {
+  color: purple;
+  background-color: #d8da3d }
+</style>
